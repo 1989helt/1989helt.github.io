@@ -22,8 +22,7 @@ Lecture, School of Mathematical Sciences, Anhui University, 2018—2022.
 Low-level Computer Vision; Deep Learning; Scientific Computing; Optimization Theory
 
 #### Academic Service
-<strong>Journal/Conference reviewer:</strong>
-
+Journal/Conference reviewer:
 IEEE Transactions on Image Processing;
 IEEE Transactions on Signal Processing; 
 IEEE Transactions on Multimedia; 
