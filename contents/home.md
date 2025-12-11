@@ -16,7 +16,7 @@ Email: helt@ahu.edu.cn
 
 #### Working Experience
 <span style="color:blue;">Associate Professor,</span> School of Mathematical Sciences, Anhui University, 2022—Now.\
-<span style="color:blue;">Lecture>,</span> School of Mathematical Sciences, Anhui University, 2018—2022.
+<span style="color:blue;">Lecture,</span> School of Mathematical Sciences, Anhui University, 2018—2022.
 
 #### Research Interests
 Low-level Computer Vision; Deep Learning; Scientific Computing; Optimization Theory
