@@ -11,13 +11,13 @@ Email: helt@ahu.edu.cn
 #### Education Bacground
 Ph.D., University of Electronic Science and Technology of China, 2013—2018.\
 M.E.,  University of Electronic Science and Technology of China, 2011—2013.\
-B.E.,   Fuyang Normal University, 2007—2011.
+B.E.,  Fuyang Normal University, 2007—2011.
 
 
 #### Working Experience
-Associate Professor, School of Mathematical Sciences, Anhui University, 2022—.\
+Associate Professor, School of Mathematical Sciences, Anhui University, 2022—Now.\
 Lecture, School of Mathematical Sciences, Anhui University, 2018—2022.
 
 #### Research Interests
-Low-level Imaging Processing; Scientific Computing
+Low-level Computer Vision; Deep Learning; Scientific Computing; Optimization Theory
 
