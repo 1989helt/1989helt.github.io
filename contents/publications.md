@@ -1,5 +1,5 @@
 #### Submitted
-[5] Jianhui Qiu, Yang Yu, Jian Peng, <strong>Liangtian He</strong>, Minjie Tan, Shaobing Gao*.  Weight-Map Guided End-to-End Image Translation for Illuminant Estimation Using Dual-Domain Formulation. <strong>Engineering Applications of Artificial Intelligence</strong>.  Submitted.  2025.  (SCI 检索，中科院 1 区，中国计算机学会推荐期刊 CCF C 类).    
+[5] Jianhui Qiu, Yang Yu, Jian Peng, <strong>Liangtian He</strong>, Minjie Tan, Shaobing Gao*.  <span style="color:blue;">Weight-Map Guided End-to-End Image Translation for Illuminant Estimation Using Dual-Domain Formulation.</span> <strong>Engineering Applications of Artificial Intelligence</strong>.  Submitted.  2025.  (SCI 检索，中科院 1 区，中国计算机学会推荐期刊 CCF C 类).    
    
 [4] Xiao-Jun Yan, Jiaxin Han, Chao Wang*, Mingrui Shao, <strong>Liangtian He</strong>, Jia-Lang Zheng, Li-Hua Jiang, Wei-Hua Song, Shun Chen, Zhi-Song Liu. Morphology Prior-Aided Convolutional Neural Networks for Quality Assessment of Large Yellow Croaker.  <strong>Aquaculture Reporting</strong>.  Submitted.  2025.  (SCI 检索，中科院 2 区). 
 
