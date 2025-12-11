@@ -2,27 +2,27 @@
 
 [![1989helt](https://img.shields.io/badge/1989helt-github-blue?logo=github)](https://github.com/1989helt)
 
-I am currently an Associate Professor at the School of Mathematical Sciences,  Anhui University.
+I am currently an Associate Professor at the School of Mathematical Sciences,  Anhui University (安徽大学).
 
 #### Contact Email
 
 Email: helt@ahu.edu.cn
 
 #### Education Bacground
-<span style="color:blue;">Ph.D.,</span> University of Electronic Science and Technology of China, 2013—2018.\
-<span style="color:blue;">M.E.,</span>  University of Electronic Science and Technology of China, 2011—2013.\
-<span style="color:blue;">B.E.,</span>  Fuyang Normal University, 2007—2011.
+<strong>Ph.D.,</strong> <span style="color:blue;">University of Electronic Science and Technology of China,</span> 2013—2018.\
+<strong>M.E.,</strong>  <span style="color:blue;">University of Electronic Science and Technology of China,</span> 2011—2013.\
+<strong>B.E.,</strong>  <span style="color:blue;">Fuyang Normal University,</span> 2007—2011.
 
 
 #### Working Experience
 <span style="color:blue;">Associate Professor,</span> School of Mathematical Sciences, Anhui University, 2022—Now.\
-<span style="color:blue;">Lecture>,</span School of Mathematical Sciences, Anhui University, 2018—2022.
+<span style="color:blue;">Lecture>,</span> School of Mathematical Sciences, Anhui University, 2018—2022.
 
 #### Research Interests
 Low-level Computer Vision; Deep Learning; Scientific Computing; Optimization Theory
 
 #### Academic Service
-Journal/Conference reviewer:\
+<strong>Journal/Conference reviewer:</strong>\
 IEEE Transactions on Image Processing;
 IEEE Transactions on Signal Processing; 
 IEEE Transactions on Multimedia; 
