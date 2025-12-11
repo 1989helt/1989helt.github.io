@@ -1,17 +1,23 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![1989helt](https://img.shields.io/badge/1989helt-github-blue?logo=github)](https://github.com/1989helt)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+I am currently an Associate Professor at the School of Mathematical Sciences,  Anhui University.
 
-#### Contact
+#### Contact Email
 
-Email: senli[at]fas.harvard.edu
+Email: helt@ahu.edu.cn
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+#### Education Bacground
+Ph.D., University of Electronic Science and Technology of China, 2013—2018.\
+M.E.,  University of Electronic Science and Technology of China, 2011—2013.\
+B.E.,   Fuyang Normal University, 2007—2011.
+
+
+#### Working Experience
+Associate Professor, School of Mathematical Sciences, Anhui University, 2022—.\
+Lecture, School of Mathematical Sciences, Anhui University, 2018—2022.
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+Low-level Imaging Processing; Scientific Computing
 
