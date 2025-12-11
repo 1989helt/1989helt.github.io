@@ -2,7 +2,7 @@
 
 [![1989helt](https://img.shields.io/badge/1989helt-github-blue?logo=github)](https://github.com/1989helt)
 
-I am currently an Associate Professor at the School of Mathematical Sciences,  Anhui University (安徽大学).
+I am currently an <strong>Associate Professor</strong> at the School of Mathematical Sciences,  Anhui University (安徽大学).
 
 #### Contact Email
 
