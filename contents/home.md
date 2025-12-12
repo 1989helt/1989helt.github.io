@@ -11,7 +11,7 @@ Email: helt@ahu.edu.cn
 #### Education Bacground
 <strong>Ph.D.,</strong> University of Electronic Science and Technology of China, 2013-2018.\
 <strong>M.E.,</strong>  University of Electronic Science and Technology of China, 2011-2013.\
-<strong>B.E.,</strong>  Fuyang Normal University, 2007—2011.
+<strong>B.E.,</strong>  Fuyang Normal University, 2007-2011.
 
 
 #### Working Experience
