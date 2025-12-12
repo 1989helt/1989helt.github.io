@@ -6,7 +6,7 @@ I am currently an Associate Professor at the School of Mathematical Sciences,  A
 
 #### Contact Email
 
-Email: helt@ahu.edu.cn
+Email: helt[at]ahu[dot]edu[dot]cn
 
 #### Education Bacground
 <strong>Ph.D.,</strong> University of Electronic Science and Technology of China, 2013-2018.\
