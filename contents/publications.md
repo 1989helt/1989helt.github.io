@@ -22,7 +22,7 @@
 
 [17] Chen Liang, Shaobing Gao*, <strong>Liangtian He</strong>, Yiguang Liu. <span style="color:blue;">Biological Vision Inspired Context-awareness Network for Various Non-generic Object Detection.</span>  <strong>IEEE Transactions on Circuits and Systems for Video Technology</strong>. 35(7), 6726-6739, 2025. (SCI 检索，中科院 1 区，中国计算机学会推荐期刊 CCF B 类).
 
-[16] Chao Wang, Yang Zhou, <strong>Liangtian He</strong>, Fenglai Lin, Hongming Chen, Liang-Jian Deng*. <span style="color:blue;">Illumination Distribution Prior for Low-light Image Enhancement.</span> <strong>ACM International Conference on Multimedia (ACM MM)</strong>. 9116-9125, 2024. (EI 检索，多媒体领域国际顶级会议，中国计算机学会推荐会议 CCF A 类, acceptance rate: 26.2%) .
+[16] Chao Wang, Yang Zhou, <strong>Liangtian He</strong>, Fenglai Lin, Hongming Chen, Liang-Jian Deng*. <span style="color:blue;">Illumination Distribution Prior for Low-light Image Enhancement.</span> <strong>ACM International Conference on Multimedia (ACM MM)</strong>. 9116-9125, 2024. (EI 检索，多媒体领域国际顶级会议，中国计算机学会推荐会议 CCF A 类， acceptance rate: 26.2%) .
 
 [15] Qinghua Zhang, <strong>Liangtian He*</strong>, Yilun Wang, Liang-Jian Deng, Jun Liu. <span style="color:blue;">Quaternion Weighted Schatten p-norm Minimization for Color Image Restoration with Convergence Guarantee.</span> <strong>Signal Processing</strong>. 218(109382), 2024. (SCI 检索，中科院 2 区，中国计算机学会推荐期刊 CCF C 类).
 
@@ -38,7 +38,7 @@
 
 [9] Guangrui Hu, Anhui Tan, <strong>Liangtian He</strong>, Haozhen Shen, Chuansheng Yang, Chao Wang*. <span style="color:blue;">Pyramid Feature Boosted Network for Single Image Dehazing.</span> <strong>International Journal of Machine Learning and Cybernetics</strong>. 14(6), 2099-2110, 2023. (SCI 检索，中科院 3 区).
 
-[8] Siyan Xue, Shaobing Gao*, Minjie Tan, Zhen He, <strong>Liangtian He</strong>. <span style="color:blue;">How does Color Constancy Affect Target Recognition and Instance Segmentation?</span> <strong>ACM International Conference on Multimedia (ACM MM)</strong>. 5537-5545, 2021. (EI 检索，多媒体领域国际顶级会议，中国计算机学会推荐会议 CCF A 类, acceptance rate: 27.9%) .
+[8] Siyan Xue, Shaobing Gao*, Minjie Tan, Zhen He, <strong>Liangtian He</strong>. <span style="color:blue;">How does Color Constancy Affect Target Recognition and Instance Segmentation?</span> <strong>ACM International Conference on Multimedia (ACM MM)</strong>. 5537-5545, 2021. (EI 检索，多媒体领域国际顶级会议，中国计算机学会推荐会议 CCF A 类， acceptance rate: 27.9%) .
 
 [7] <strong>Liangtian He</strong>, Yilun Wang, Jun Liu, Jin-Jin Mei, Chao Wang*. <span style="color:blue;">Wavelet Frame-based Image Restoration Via L2-relaxed Truncated L0 Regularization and Nonlocal Estimation.</span> <strong>IEEE Signal Processing Letters</strong>. 28, 1605-1609, 2021. (SCI 检索，中科院 3 区，中国计算机学会推荐期刊 CCF C 类) .
 
