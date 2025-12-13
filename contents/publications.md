@@ -1,4 +1,6 @@
 #### Submitted
+[6] Chao Wang, Mingrui Shao, <strong>Liangtian He</strong>, Chuansheng Yang, Xiaobo Zhang, Benda Zhou. ASResNet: Atmospheric Scattering Residual Network for Single Image Dehazing. IEEE Signal Processing Letters.  Submitted.  2025.  (SCI 检索，中科院 3 区，中国计算机学会推荐期刊 CCF C 类). 
+
 [5] Jianhui Qiu, Yang Yu, Jian Peng, <strong>Liangtian He</strong>, Minjie Tan, Shaobing Gao.  <span style="color:blue;">Weight-Map Guided End-to-End Image Translation for Illuminant Estimation Using Dual-Domain Formulation.</span> <strong>Engineering Applications of Artificial Intelligence</strong>. Under Review.  2025.  (SCI 检索，中科院 1 区，中国计算机学会推荐期刊 CCF C 类).    
    
 [4] Xiao-Jun Yan, Jiaxin Han, Chao Wang, Mingrui Shao, <strong>Liangtian He</strong>, Jia-Lang Zheng, Li-Hua Jiang, Wei-Hua Song, Shun Chen, Zhi-Song Liu. <span style="color:blue;">Morphology Prior-Aided Convolutional Neural Networks for Quality Assessment of Large Yellow Croaker.</span>  <strong>Aquaculture Reporting</strong>.  Under Review.  2025.  (SCI 检索，中科院 2 区). 
@@ -12,7 +14,7 @@
 
 #### Published
 
-[21] Zhijie Wang, <strong>Liangtian He*</strong>, Shaobing Gao, Jifei Miao, Liang-Jian Deng, Jun Liu. <span style="color:blue;">Reweighted Low-rank Quaternion Matrix Factorization with Deep Denoising Prior for Color Image Inpainting.</span> <strong>Information Sciences</strong>. 122953, 2026. (SCI 检索，中科院 2 区，中国计算机学会推荐期刊 CCF B 类).
+[21] Zhijie Wang, <strong>Liangtian He*</strong>, Shaobing Gao, Jifei Miao, Liang-Jian Deng, Jun Liu. <span style="color:blue;">Reweighted Low-rank Quaternion Matrix Factorization with Deep Denoising Prior for Color Image Inpainting.</span> <strong>Information Sciences</strong>. 733(122953), 2026. (SCI 检索，中科院 2 区，中国计算机学会推荐期刊 CCF B 类).
 
 [20] Zhijie Wang, <strong>Liangtian He*</strong>, Jifei Miao, Liang-Jian Deng, Jun Liu. <span style="color:blue;">Constrained Low-rank Approximation of Quaternion Matrices and Beyond.</span> <strong>Applied Mathematics Letters</strong>. 172(109724), 2026. (SCI 检索，中科院 2 区，应用数学领域国际权威期刊).
 
