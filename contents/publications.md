@@ -1,5 +1,5 @@
 #### Submitted
-[6] Chao Wang, Mingrui Shao, <strong>Liangtian He</strong>, Chuansheng Yang, Xiaobo Zhang, Benda Zhou. ASResNet: Atmospheric Scattering Residual Network for Single Image Dehazing. IEEE Signal Processing Letters.  Submitted.  2025.  (SCI 检索，中科院 3 区，中国计算机学会推荐期刊 CCF C 类). 
+[6] Chao Wang, Mingrui Shao, <strong>Liangtian He</strong>, Chuansheng Yang, Xiaobo Zhang, Benda Zhou. <span style="color:blue;">ASResNet: Atmospheric Scattering Residual Network for Single Image Dehazing.</span>  <strong>IEEE Signal Processing Letters</strong>.  Under Review.  2025.  (SCI 检索，中科院 3 区，中国计算机学会推荐期刊 CCF C 类). 
 
 [5] Jianhui Qiu, Yang Yu, Jian Peng, <strong>Liangtian He</strong>, Minjie Tan, Shaobing Gao.  <span style="color:blue;">Weight-Map Guided End-to-End Image Translation for Illuminant Estimation Using Dual-Domain Formulation.</span> <strong>Engineering Applications of Artificial Intelligence</strong>. Under Review.  2025.  (SCI 检索，中科院 1 区，中国计算机学会推荐期刊 CCF C 类).    
    
