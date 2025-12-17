@@ -10,7 +10,7 @@ I received my Ph.D. degree from the School of Mathematical Sciences at the Unive
 
 I am actively recruiting highly motivated Master's students to join my research group. If you have a solid foundation in mathematics and programming, and are passionate about exploring the frontiers of image processing and computer vision, I strongly encourage you to apply. 
 
-Interested candidates are welcome to send their CV and a brief statement of interest to my email: helt@ahu.edu.cn. Please feel free to reach out in advance to discuss potential research projects.
+Interested candidates are welcome to send their CV and a brief statement of interest to my email: helt[at]ahu[dot]edu[dot]cn. Please feel free to reach out in advance to discuss potential research projects.
 
 #### Contact Information
 Address: No. 111, JiuLong Road, Economic Development Zone, 230601, Hefei, P. R. China\
@@ -24,21 +24,6 @@ Email: helt[at]ahu[dot]edu[dot]cn
 #### Working Experience
 <strong>Associate Professor,</strong> School of Mathematical Sciences, Anhui University, 2022-Now.\
 <strong>Lecturer,</strong> School of Mathematical Sciences, Anhui University, 2018-2022.
-
-#### Supervised Students (指导研究生)
-2025级:\
-李宗政   杨子诚  张志军 
-2024级:\ 
-张涵博   陶俊杰  侍光泽 
-2023级:\
-王治杰（国家奖学金) 
-李娟\ 
-2022级:\ 
-刘韩坤（毕业去向：入职南京英田光学工程股份有限公司）  
-陈雨馨（优秀毕业研究生，毕业去向：入职安徽当涂县一中） 
-2021级:\  
-张庆华（国家奖学金，优秀毕业研究生，毕业去向：入学北京师范大学继续攻读博士学位） 
-杨雪松（毕业去向：入职芜湖奇瑞汽车股份有限公司） 
 
 #### Research Interests
 Low-level Computer Vision; Deep Learning; Scientific Computing; Optimization Theory
