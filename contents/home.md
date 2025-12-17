@@ -13,7 +13,7 @@ I am actively recruiting highly motivated Master's students to join my research 
 Interested candidates are welcome to send their CV and a brief statement of interest to my email: helt@ahu.edu.cn. Please feel free to reach out in advance to discuss potential research projects.
 
 #### Contact Information
-Address: No. 111, JiuLong Road, Economic Development Zone, 230601, Hefei, P. R. China
+Address: No. 111, JiuLong Road, Economic Development Zone, 230601, Hefei, P. R. China\
 Email: helt[at]ahu[dot]edu[dot]cn
 
 #### Education Background
