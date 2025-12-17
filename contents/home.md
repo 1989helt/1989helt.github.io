@@ -21,10 +21,24 @@ Email: helt[at]ahu[dot]edu[dot]cn
 <strong>M.E.,</strong>  University of Electronic Science and Technology of China, 2011-2013.\
 <strong>B.E.,</strong>  Fuyang Normal University, 2007-2011.
 
-
 #### Working Experience
 <strong>Associate Professor,</strong> School of Mathematical Sciences, Anhui University, 2022-Now.\
 <strong>Lecturer,</strong> School of Mathematical Sciences, Anhui University, 2018-2022.
+
+#### Supervised Students (指导研究生)
+2025级: \
+李宗政   杨子诚  张志军\
+2024级: \
+张涵博   陶俊杰  侍光泽\
+2023级: \
+王治杰（国家奖学金)\  
+李娟\
+2022级:  \
+刘韩坤（毕业去向：入职南京英田光学工程股份有限公司） \ 
+陈雨馨（优秀毕业研究生，毕业去向：入职安徽当涂县一中）\
+2021级:  
+张庆华（国家奖学金，优秀毕业研究生，毕业去向：入学北京师范大学继续攻读博士学位）\   
+杨雪松（毕业去向：入职芜湖奇瑞汽车股份有限公司）\
 
 #### Research Interests
 Low-level Computer Vision; Deep Learning; Scientific Computing; Optimization Theory
