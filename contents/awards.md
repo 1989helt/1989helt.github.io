@@ -1,16 +1,10 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+[1] 安徽省教育厅高校自然科学研究重点项目（2025/01/01 ~ 2026/12/31），项目号：2024AH050064，金额：10万，主持 
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+[2] 国家自然科学基金青年项目（2021/01/01 ~ 2023/12/31），项目号：12001005，金额：24万，主持 
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2024.
+[3] 安徽省科技厅自然科学基金青年项目（2020/07/01 ~ 2022/6/30），项目号：2008085QF286，金额：10万，主持 
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023.
+[4] 安徽省教育厅高校自然科学研究重点项目（2020/01/01 ~ 2021/12/31），项目号：KJ2019A0032，金额：6万，主持 
 
-- Freshman Scholarship (CUMT), 2022.
-
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+[5] 安徽大学博士科研启动经费项目（2019/01/01 ~ 2023/12/31),  金额：6万，主持 
