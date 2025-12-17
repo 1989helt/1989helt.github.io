@@ -21,7 +21,7 @@ Email: helt[at]ahu[dot]edu[dot]cn
 <strong>M.E.,</strong>  University of Electronic Science and Technology of China, 2011-2013.\
 <strong>B.E.,</strong>  Fuyang Normal University, 2007-2011.
 
-#### Working Experience
+#### Work Experiences
 <strong>Associate Professor,</strong> School of Mathematical Sciences, Anhui University, 2022-Now.\
 <strong>Lecturer,</strong> School of Mathematical Sciences, Anhui University, 2018-2022.
 
