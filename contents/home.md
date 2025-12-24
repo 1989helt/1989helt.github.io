@@ -4,17 +4,14 @@
 
 Nice to meet you here! 
 
-I am Liangtian He, currently an Associate Professor and a Master's Supervisor in the School of Mathematical Sciences at Anhui University (安徽大学). My research interests lie at the intersection of Image Processing and Computer Vision, with a focus on developing robust algorithms for real-world applications. 
+I am Liangtian He, currently an Associate Professor and a Master's Supervisor in the School of Mathematical Sciences at Anhui University (安徽大学). My research interests lie at the intersection of Image Processing and Computer Vision, with a focus on developing robust algorithms for real-world applications. I received my Ph.D. degree from the School of Mathematical Sciences at the University of Electronic Science and Technology of China (UESTC) in 2018, where I was fortunate to be advised by Professors Zhaoyin Xiang and Yilun Wang. 
 
-I received my Ph.D. degree from the School of Mathematical Sciences at the University of Electronic Science and Technology of China (UESTC) in 2018, where I was fortunate to be advised by Professors Zhaoyin Xiang and Yilun Wang. 
-
-I am actively recruiting highly motivated Master's students to join my research group. If you have a solid foundation in mathematics and programming, and are passionate about exploring the frontiers of image processing and computer vision, I strongly encourage you to apply. 
-
-Interested candidates are welcome to send their CV and a brief statement of interest to my email: helt[at]ahu[dot]edu[dot]cn. Please feel free to reach out in advance to discuss potential research projects.
+I am actively recruiting highly motivated Master's students to join my research group. If you have a solid foundation in mathematics and programming, and are passionate about exploring the frontiers of image processing and computer vision, I strongly encourage you to apply. Interested candidates are welcome to send their CV and a brief statement of interest to my email: helt[at]ahu[dot]edu[dot]cn. Please feel free to reach out in advance to discuss potential research projects.
 
 #### Contact Information
-Address: No. 111, JiuLong Road, Economic Development Zone, 230601, Hefei, P. R. China\
 Email: helt[at]ahu[dot]edu[dot]cn
+Address: No. 111, JiuLong Road, Economic Development Zone, 230601, Hefei, P. R. China\
+
 
 #### Education Background
 <strong>Ph.D.,</strong> University of Electronic Science and Technology of China, 2013-2018.\
