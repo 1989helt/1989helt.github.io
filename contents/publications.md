@@ -7,7 +7,7 @@
 
 [3] Shaobing Gao, Minjie Tan, Zeyu Chen, Siao Cai, <strong>Liangtian He</strong>, Yiguang Liu.  <span style="color:blue;">Probablistic Photon Distribution-Guided 3D Transformer for Single-Photon Computational Imaging.</span>   <strong>International Journal of Computer Vision (IJCV)</strong>.  Under Review.   2025.  (SCI 检索，中科院 2 区，中国计算机学会推荐期刊 CCF A 类).
 
-[2] Zhijie Wang, <strong>Liangtian He*</strong>, Qinghua Zhang, Jifei Miao, Liang-Jian Deng, Jun Liu. <span style="color:blue;">Matrix Completion Via Reweighted Logrithmic Norm Minimization.</span>  <strong>IEEE Signal Processing Letters</strong>.  Under Review.  2025.  (SCI 检索，中科院 3 区，中国计算机学会推荐期刊 CCF C 类). 
+[2] Zhijie Wang, <strong>Liangtian He*</strong>, Qinghua Zhang, Jifei Miao, Liang-Jian Deng, Jun Liu. <span style="color:blue;">Matrix Completion via Reweighted Logrithmic Norm Minimization.</span>  <strong>IEEE Signal Processing Letters</strong>.  Under Review.  2025.  (SCI 检索，中科院 3 区，中国计算机学会推荐期刊 CCF C 类). 
 
 [1] Zhijie Wang, <strong>Liangtian He*</strong>, Jifei Miao, Liang-Jian Deng, Jun Liu.  <span style="color:blue;">Low-rank Reduced Biquaternion Matrix Completion with Application to Color Image Inpainting.</span>  <strong>Pattern Recognition</strong>.  Under Review.  2025.  (SCI 检索，中科院 1 区，中国计算机学会推荐期刊 CCF B 类).  
  
