@@ -9,8 +9,8 @@ I am Liangtian He, currently an Associate Professor and a Master's Supervisor in
 I am actively recruiting highly motivated Master's students to join my research group. If you have a solid foundation in mathematics and programming, and are passionate about exploring the frontiers of image processing and computer vision, I strongly encourage you to apply. Interested candidates are welcome to send their CV and a brief statement of interest to my email: helt[at]ahu[dot]edu[dot]cn. Please feel free to reach out in advance to discuss potential research projects.
 
 #### Contact Information
-Email: helt[at]ahu[dot]edu[dot]cn
-Address: No. 111, JiuLong Road, Economic Development Zone, 230601, Hefei, P. R. China\
+Email: helt[at]ahu[dot]edu[dot]cn\
+Address: No. 111, JiuLong Road, Economic Development Zone, 230601, Hefei, P. R. China
 
 
 #### Education Background
