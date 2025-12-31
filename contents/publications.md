@@ -40,7 +40,7 @@
 
 [9] Guangrui Hu, Anhui Tan, <strong>Liangtian He</strong>, Haozhen Shen, Chuansheng Yang, Chao Wang. <span style="color:blue;">Pyramid Feature Boosted Network for Single Image Dehazing.</span> <strong>International Journal of Machine Learning and Cybernetics</strong>. 14(6), 2099-2110, 2023. (SCI 检索，中科院 3 区).
 
-[8] Siyan Xue, Shaobing Gao, Minjie Tan, Zhen He, <strong>Liangtian He</strong>. <span style="color:blue;">How does Color Constancy Affect Target Recognition and Instance Segmentation?</span> <strong>ACM International Conference on Multimedia (ACM MM)</strong>. 5537-5545, 2021. (EI 检索，多媒体领域国际顶级会议，中国计算机学会推荐会议 CCF A 类， acceptance rate: 27.9%) .
+[8] Siyan Xue, Shaobing Gao, Minjie Tan, Zhen He, <strong>Liangtian He</strong>. <span style="color:blue;">How does Color Constancy Affect Target Recognition and Instance Segmentation?</span> <strong>ACM International Conference on Multimedia (ACM MM)</strong>. 5537-5545, 2021. (EI 检索，多媒体领域国际顶级会议，中国计算机学会推荐会议 CCF A 类， acceptance rate: 27.9%).
 
 [7] <strong>Liangtian He</strong>, Yilun Wang, Jun Liu, Jin-Jin Mei, Chao Wang. <span style="color:blue;">Wavelet Frame-based Image Restoration Via L2-relaxed Truncated L0 Regularization and Nonlocal Estimation.</span> <strong>IEEE Signal Processing Letters</strong>. 28, 1605-1609, 2021. (SCI 检索，中科院 3 区，中国计算机学会推荐期刊 CCF C 类) .
 
