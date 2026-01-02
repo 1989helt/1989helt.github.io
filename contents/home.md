@@ -2,7 +2,7 @@
 
 [![1989helt](https://img.shields.io/badge/1989helt-github-blue?logo=github)](https://github.com/1989helt)
 
-Nice to meet you here! 
+Nice to meet you here ! 
 
 I am Liangtian He, currently an Associate Professor and a Master's Supervisor in the School of Mathematical Sciences at Anhui University (安徽大学). My research interests lie at the intersection of Image Processing and Computer Vision, with a focus on developing robust algorithms for real-world applications. I received my Ph.D. degree from the School of Mathematical Sciences at the University of Electronic Science and Technology of China (UESTC) in 2018, where I was fortunate to be advised by Professors Zhaoyin Xiang and Yilun Wang. 
 
