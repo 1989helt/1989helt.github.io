@@ -57,10 +57,10 @@ Concurrency and Computation: Practice and Experience;
 Chinese Conference on Pattern Recognition and Computer Vision (PRCV) 
 
 #### Team Members
-2025级: 
+2025级:\ 
 李宗政 杨子诚 张志军
 
-2024级: 
+2024级:\ 
 张涵博 陶俊杰 侍光泽
 
 2023级:\
@@ -68,7 +68,7 @@ Chinese Conference on Pattern Recognition and Computer Vision (PRCV)
 
 2022级:\
 刘韩坤（毕业去向：入职南京英田光学工程股份有限公司）\
-陈雨馨（优秀毕业研究生，毕业去向：入职当涂县一中）\
+陈雨馨（优秀毕业研究生，毕业去向：入职当涂县一中）
 
 2021级:\
 张庆华（国家奖学金，优秀毕业研究生，毕业去向：入学北京师范大学继续攻读博士学位）\
