@@ -58,15 +58,13 @@ Chinese Conference on Pattern Recognition and Computer Vision (PRCV)
 
 #### Team Members
 2025级: 
-
-李宗政 杨子诚 张志军
+李宗政  杨子诚  张志军
 
 2024级: 
-
-张涵博 陶俊杰 侍光泽
+张涵博  陶俊杰  侍光泽
 
 2023级:\
-王治杰（国家奖学金） 李娟
+王治杰（国家奖学金）  李娟
 
 2022级:\
 刘韩坤（毕业去向：入职南京英田光学工程股份有限公司）\
