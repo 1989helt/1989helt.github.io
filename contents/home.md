@@ -57,10 +57,12 @@ Concurrency and Computation: Practice and Experience;
 Chinese Conference on Pattern Recognition and Computer Vision (PRCV) 
 
 #### Team Members
-2025级:\ 
+2025级: 
+
 李宗政 杨子诚 张志军
 
-2024级:\ 
+2024级: 
+
 张涵博 陶俊杰 侍光泽
 
 2023级:\
