@@ -1,13 +1,13 @@
 #### Submitted
-[7] Juan Li, Zhijie Wang, <strong>Liangtian He*</strong>, Jifei Miao, Jun Liu, Liang-Jian Deng. <span style="color:blue;">Constrained Low-Rank Quaternion Matrix Completion Fusing Learnable Transforms and Plug-and-Play Denoising Prior for Color Image Inpainting.</span> <strong>Journal of Computational and Applied Mathematics</strong>.  Submitted, 2026. (SCI 检索，中科院 2 区，计算与应用数学领域国际权威期刊).
+[7] Juan Li, Zhijie Wang, <strong>Liangtian He*</strong>, Jifei Miao, Jun Liu, Liang-Jian Deng. <span style="color:blue;">Constrained Low-Rank Quaternion Matrix Completion Fusing Learnable Transforms and Plug-and-Play Denoising Prior for Color Image Inpainting.</span> <strong>Journal of Computational and Applied Mathematics</strong>.  Submitted.  2026. (SCI 检索，中科院 2 区，计算与应用数学领域国际权威期刊).
 
-[6] Chao Wang, Mingrui Shao, <strong>Liangtian He</strong>, Chuansheng Yang, Xiaobo Zhang, Benda Zhou. <span style="color:blue;">ASResNet: Atmospheric Scattering Residual Network for Single Image Dehazing.</span>  <strong>IEEE Signal Processing Letters</strong>.  Under Review.  2026.  (SCI 检索，中科院 3 区， 中国计算机学会推荐期刊 CCF C 类). 
+[6] Shaobing Gao, Minjie Tan, Zeyu Chen, Siao Cai, <strong>Liangtian He</strong>, Yiguang Liu.  <span style="color:blue;">Probablistic Photon Distribution-Guided 3D Transformer for Single-Photon Computational Imaging.</span>   <strong>Nature Machine Intelligence</strong>.  Submitted.  2026.  (SCI 检索， 中科院 1 区).
 
-[5] Jianhui Qiu, Yang Yu, Jian Peng, <strong>Liangtian He</strong>, Minjie Tan, Shaobing Gao.  <span style="color:blue;">Weight-Map Guided End-to-End Image Translation for Illuminant Estimation Using Dual-Domain Formulation.</span> <strong>Engineering Applications of Artificial Intelligence</strong>. Under Review.  2026.  (SCI 检索， 中科院 1 区，中国计算机学会推荐期刊 CCF C 类).    
+[5] Chao Wang, Mingrui Shao, <strong>Liangtian He</strong>, Chuansheng Yang, Xiaobo Zhang, Benda Zhou. <span style="color:blue;">ASResNet: Atmospheric Scattering Residual Network for Single Image Dehazing.</span>  <strong>IEEE Signal Processing Letters</strong>.  Under Review.  2026.  (SCI 检索，中科院 3 区， 中国计算机学会推荐期刊 CCF C 类). 
+
+[4] Jianhui Qiu, Yang Yu, Jian Peng, <strong>Liangtian He</strong>, Minjie Tan, Shaobing Gao.  <span style="color:blue;">Weight-Map Guided End-to-End Image Translation for Illuminant Estimation Using Dual-Domain Formulation.</span> <strong>Engineering Applications of Artificial Intelligence</strong>. Under Review.  2026.  (SCI 检索， 中科院 1 区，中国计算机学会推荐期刊 CCF C 类).    
    
-[4] Xiao-Jun Yan, Jiaxin Han, Chao Wang, Mingrui Shao, <strong>Liangtian He</strong>, Jia-Lang Zheng, Li-Hua Jiang, Wei-Hua Song, Shun Chen, Zhi-Song Liu. <span style="color:blue;">Morphology Prior-Aided Convolutional Neural Networks for Quality Assessment of Large Yellow Croaker.</span>  <strong>Aquaculture Reporting</strong>.  Under Review.  2026.  (SCI 检索， 中科院 2 区). 
-
-[3] Shaobing Gao, Minjie Tan, Zeyu Chen, Siao Cai, <strong>Liangtian He</strong>, Yiguang Liu.  <span style="color:blue;">Probablistic Photon Distribution-Guided 3D Transformer for Single-Photon Computational Imaging.</span>   <strong>International Journal of Computer Vision (IJCV)</strong>.  Under Review.   2026.  (SCI 检索， 中科院 2 区， 中国计算机学会推荐期刊 CCF A 类).
+[3] Xiao-Jun Yan, Jiaxin Han, Chao Wang, Mingrui Shao, <strong>Liangtian He</strong>, Jia-Lang Zheng, Li-Hua Jiang, Wei-Hua Song, Shun Chen, Zhi-Song Liu. <span style="color:blue;">Morphology Prior-Aided Convolutional Neural Networks for Quality Assessment of Large Yellow Croaker.</span>  <strong>Aquaculture Reporting</strong>.  Under Review.  2026.  (SCI 检索， 中科院 2 区). 
 
 [2] Zhijie Wang, <strong>Liangtian He*</strong>, Qinghua Zhang, Jifei Miao, Liang-Jian Deng, Jun Liu. <span style="color:blue;">Matrix Completion via Reweighted Logrithmic Norm Minimization.</span>  <strong>IEEE Signal Processing Letters</strong>.  In Revision.  2026.  (SCI 检索，中科院 3 区，中国计算机学会推荐期刊 CCF C 类). 
 
