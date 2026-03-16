@@ -45,6 +45,7 @@ IET Image Processing;
 The Visual Computer;
 Multimedia Tools and Applications;
 Machine Vision and Applications; 
+Nonlinear Dynamics;
 Multimedia Systems;
 GIScience and Remote Sensing;
 Journal of Electronic Imaging;
