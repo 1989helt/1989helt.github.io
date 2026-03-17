@@ -13,7 +13,7 @@
 
 [20] Zhijie Wang, <strong>Liangtian He*</strong>, Jifei Miao, Liang-Jian Deng, Jun Liu. <span style="color:blue;">Constrained Low-rank Approximation of Quaternion Matrices and Beyond.</span> <strong>Applied Mathematics Letters</strong>. 172(109724), 2026. (SCI 检索，中科院 2 区，应用数学领域国际权威期刊).
 
-[19] Yang Zhou, <strong>Liangtian He</strong>, Liang-Jian Deng, Hongming Chen, Chao Wang. <span style="color:blue;">MDFormer: Multi-scale Down-sampling-based Transformer for Low-light Image Enhancement.</span> <strong>IEEE Signal Processing Letters</strong>. 32, 1575-1579, 2025. (SCI 检索，中科院 3 区，中国计算机学会推荐期刊 CCF C 类).
+[19] Yang Zhou, <strong>Liangtian He</strong>, Liang-Jian Deng, Hongming Chen, Chao Wang. <span style="color:blue;">MDFormer: Multi-scale Downsampling-based Transformer for Low-light Image Enhancement.</span> <strong>IEEE Signal Processing Letters</strong>. 32, 1575-1579, 2025. (SCI 检索，中科院 3 区，中国计算机学会推荐期刊 CCF C 类).
 
 [18] Qinghua Zhang, <strong>Liangtian He*</strong>, Shaobing Gao, Liang-Jian Deng, Jun Liu. <span style="color:blue;">Quaternion-based Deep Image Prior with Regularization by Denoising for Color Image Restoration.</span> <strong>Signal Processing</strong>. 231(109883), 2025. (SCI 检索，中科院 2 区，中国计算机学会推荐期刊 CCF C 类).
 
