@@ -1,5 +1,5 @@
 #### Submitted
-[4] Juan Li, Zhijie Wang, <strong>Liangtian He*</strong>, Jifei Miao, Jun Liu, Liang-Jian Deng. <span style="color:blue;">Constrained Low-Rank Quaternion Matrix Completion Fusing Learnable Transforms and Plug-and-Play Denoising Prior for Color Image Inpainting.</span> <strong>Journal of Computational and Applied Mathematics</strong>.  Under Review.  2026. (SCI 检索，新锐 3 区，计算与应用数学领域国际权威期刊).
+[4] Juan Li, Zhijie Wang, <strong>Liangtian He*</strong>, Jifei Miao, Jun Liu, Liang-Jian Deng. <span style="color:blue;">Constrained Low-Rank Quaternion Matrix Completion Fusing Learnable Transforms and Plug-and-Play Denoising Prior for Color Image Inpainting.</span> <strong>Journal of Computational and Applied Mathematics</strong>.  In Revision.  2026. (SCI 检索，新锐 3 区，计算与应用数学领域国际权威期刊).
 
 [3] Shaobing Gao, Minjie Tan, Zeyu Chen, Siao Cai, <strong>Liangtian He</strong>, Yiguang Liu.  <span style="color:blue;">	Physics-Informed Deep Learning for Single-Photon 3D Imaging.</span>   <strong>Nature Machine Intelligence</strong>.  Under Review.  2026.  (SCI 检索，新锐 1 区 TOP，人工智能领域国际顶级期刊).
 
