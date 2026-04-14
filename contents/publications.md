@@ -3,7 +3,7 @@
 
 [3] Shaobing Gao, Minjie Tan, Zeyu Chen, Siao Cai, <strong>Liangtian He</strong>, Yiguang Liu.  <span style="color:blue;">	Physics-Informed Deep Learning for Single-Photon 3D Imaging.</span>   <strong>Nature Machine Intelligence</strong>.  Under Review.  2026.  (SCI 检索，新锐 1 区 TOP，人工智能领域国际顶级期刊).
 
-[2] Jianhui Qiu, Yang Yu, Jian Peng, <strong>Liangtian He</strong>, Minjie Tan, Shaobing Gao.  <span style="color:blue;">Weight-Map Guided End-to-End Image Translation for Illuminant Estimation Using Dual-Domain Formulation.</span> <strong>Engineering Applications of Artificial Intelligence</strong>. Under Review.  2026.  (SCI 检索， 新锐 1 区 TOP，中国计算机学会推荐期刊 CCF C 类).    
+[2] Jianhui Qiu, Yang Yu, Jian Peng, <strong>Liangtian He</strong>, Minjie Tan, Shaobing Gao.  <span style="color:blue;">Weight-Map Guided End-to-End Image Translation for Illuminant Estimation Using Dual-Domain Formulation.</span> <strong>Neurocomputing</strong>. Submitted.  2026.  (SCI 检索， 新锐 2 区 TOP，中国计算机学会推荐期刊 CCF C 类).    
    
 [1] Zhijie Wang, <strong>Liangtian He*</strong>, Jifei Miao, Liang-Jian Deng, Jun Liu.  <span style="color:blue;">Low-rank Reduced Biquaternion Matrix Completion with Application to Color Image Inpainting.</span>  <strong>Pattern Recognition</strong>.  In Revision.  2026.  (SCI 检索，新锐 1 区 TOP，中国计算机学会推荐期刊 CCF B 类).  
  
