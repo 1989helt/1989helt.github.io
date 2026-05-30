@@ -4,9 +4,9 @@
 [1] Jianhui Qiu, Yang Yu, Jian Peng, <strong>Liangtian He</strong>, Minjie Tan, Shaobing Gao.  <span style="color:blue;">Weight-Map Guided End-to-End Image Translation for Illuminant Estimation Using Dual-Domain Formulation.</span> <strong>Neurocomputing</strong>. Submitted.  2026.  (SCI 检索， 新锐 2 区 TOP，中国计算机学会推荐期刊 CCF C 类).    
 
 #### Published
-[23] Juan Li, Zhijie Wang, <strong>Liangtian He*</strong>, Jifei Miao, Jun Liu, Liang-Jian Deng. <span style="color:blue;">Constrained Low-Rank Quaternion Matrix Completion Fusing Learnable Transforms and Plug-and-Play Denoising Prior for Color Image Inpainting.</span> <strong>Journal of Computational and Applied Mathematics</strong>.  117802,  2027. (SCI 检索，新锐 3 区，计算与应用数学领域国际权威期刊).
+[23] Juan Li, Zhijie Wang, <strong>Liangtian He*</strong>, Jifei Miao, Jun Liu, Liang-Jian Deng. <span style="color:blue;">Constrained Low-Rank Quaternion Matrix Completion Fusing Learnable Transforms and Plug-and-Play Denoising Prior for Color Image Inpainting.</span> <strong>Journal of Computational and Applied Mathematics</strong>.  117802,  2026. (SCI 检索，新锐 3 区，计算与应用数学领域国际权威期刊).
 
-[22] Zhijie Wang, <strong>Liangtian He*</strong>, Jifei Miao, Liang-Jian Deng, Jun Liu.  <span style="color:blue;">Low-rank Reduced Biquaternion Matrix Completion with Application to Color Image Inpainting.</span>  <strong>Pattern Recognition</strong>.  114021,  2027.  (SCI 检索，新锐 1 区 TOP，中国计算机学会推荐期刊 CCF B 类).  
+[22] Zhijie Wang, <strong>Liangtian He*</strong>, Jifei Miao, Liang-Jian Deng, Jun Liu.  <span style="color:blue;">Low-rank Reduced Biquaternion Matrix Completion with Application to Color Image Inpainting.</span>  <strong>Pattern Recognition</strong>.  114021,  2026.  (SCI 检索，新锐 1 区 TOP，中国计算机学会推荐期刊 CCF B 类).  
 
 [21] Zhijie Wang, <strong>Liangtian He*</strong>, Shaobing Gao, Jifei Miao, Liang-Jian Deng, Jun Liu. <span style="color:blue;">Reweighted Low-rank Quaternion Matrix Factorization with Deep Denoising Prior for Color Image Inpainting.</span> <strong>Information Sciences</strong>. 733(122953), 2026. (SCI 检索，新锐 1 区 TOP，中国计算机学会推荐期刊 CCF B 类).
 
