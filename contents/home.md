@@ -38,6 +38,7 @@ IEEE Access;
 Applied Mathematics and Computation;
 Optics and Laser Technology;
 Expert Systems With Applications;
+Neural Networks;
 Signal Processing; 
 Neurocomputing;
 Image and Vison Computing;
