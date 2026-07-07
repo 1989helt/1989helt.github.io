@@ -1,5 +1,5 @@
 #### Published
-[23] Juan Li, Zhijie Wang, <strong>Liangtian He*</strong>, Jifei Miao, Jun Liu, Liang-Jian Deng. <span style="color:blue;">Constrained Low-rank Quaternion Matrix Completion Fusing Learnable Transforms and Plug-and-Play Denoising Prior for Color Image Inpainting.</span> <strong style="font-family: 'Comic Sans MS', 'Comic Sans', cursive; font-weight: bold;">
+[23] Juan Li, Zhijie Wang, <strong>Liangtian He*</strong>, Jifei Miao, Jun Liu, Liang-Jian Deng. <span style="color:blue;">Constrained Low-rank Quaternion Matrix Completion Fusing Learnable Transforms and Plug-and-Play Denoising Prior for Color Image Inpainting.</span> <strong style="font-family: 'Comic Sans MS', 'Comic Sans', cursive; font-weight: normal;">
 Journal of Computational and Applied Mathematics</strong>.  488(117802),  2026. (SCI 检索，JCR-Q1，计算与应用数学领域国际权威期刊).
 
 [22] Zhijie Wang, <strong>Liangtian He*</strong>, Jifei Miao, Liang-Jian Deng, Jun Liu.  <span style="color:blue;">Low-rank Reduced Biquaternion Matrix Completion with Application to Color Image Inpainting.</span>  <strong style="font-family: 'Comic Sans MS', 'Comic Sans', cursive; font-weight: bold;"> Pattern Recognition</strong>.  180(114021),  2026.  (SCI 检索，JCR-Q1，中国计算机学会推荐期刊 CCF B 类).  
