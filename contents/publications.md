@@ -1,5 +1,5 @@
 #### Submitted
-[3] Guangze Shi, <strong>Liangtian He*</strong>, Jifei Miao, Jun Liu, Liang-Jian Deng. <span style="color:blue;">A Boundary-Aware Quaternion Framework for Color
+[3] Guangze Shi, <strong>Liangtian He*</strong>, Jifei Miao, Jun Liu, Liang-Jian Deng. <span style="color:blue;">A Boundary-aware Quaternion Framework for Color
 Image Deblurring under Unknown Boundaries and Incomplete Observations.</span> Submitted. 2026.
 
 [2] Zongzheng Li, <strong>Liangtian He*</strong>, Jifei Miao, Jun Liu, Liang-Jian Deng. <span style="color:blue;">Stabilized Low-rank Quaternion Matrix Completion with
