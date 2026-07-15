@@ -1,5 +1,5 @@
 #### Submitted
-[4] Junjie Tao, Zhijie Wang, <strong>Liangtian He*</strong>, Jifei Miao, Jun Liu, Liang-Jian Deng. <span style="color:blue;">Sine-Transformed Weighted Nuclear Norm Minimization for Robust Low-rank Matrix Completion.</span> Submitted. 2026.
+[4] Junjie Tao, Zhijie Wang, <strong>Liangtian He*</strong>, Jifei Miao, Jun Liu, Liang-Jian Deng. <span style="color:blue;">Sine-transformed Weighted Nuclear Norm Minimization for Robust Low-rank Matrix Completion.</span> Submitted. 2026.
 
 [3] Guangze Shi, <strong>Liangtian He*</strong>, Jifei Miao, Jun Liu, Liang-Jian Deng. <span style="color:blue;">A Boundary-aware Quaternion Framework for Color
 Image Deblurring under Unknown Boundaries and Incomplete Observations.</span> Submitted. 2026.
