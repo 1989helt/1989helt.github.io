@@ -5,7 +5,8 @@
 Image Deblurring under Unknown Boundaries and Incomplete Observations.</span> Submitted. 2026.
 
 [2] Zongzheng Li, <strong>Liangtian He*</strong>, Jifei Miao, Jun Liu, Liang-Jian Deng. <span style="color:blue;">Stabilized Low-rank Quaternion Matrix Completion with
-Complementary Local and Nonlocal Plug-and-Play Priors for Color Image Inpainting.</span> Submitted. 2026.
+Complementary Local and Nonlocal Plug-and-Play Priors for Color Image Inpainting.</span> <strong style="font-family: 'Comic Sans MS', 'Comic Sans', cursive; font-weight: normal;">
+Applied Mathematical Modelling</strong>. Submitted. 2026. (SCI 检索，JCR-Q1，计算与应用数学领域国际权威期刊).
 
 [1] Chao Wang, Zhe Pan, <strong>Liangtian He</strong>, Jun Liu, Lin Mei, Rongsheng Lin, Hongming Chen, Chuansheng Yang. <span style="color:blue;">Dual-domain Illumination Prior for Low-light Remote Sensing Image Enhancement.</span>  <strong style="font-family: 'Comic Sans MS', 'Comic Sans', cursive; font-weight: normal;">Remote Sensing</strong>.  Major revision.  2026. (SCI 检索，JCR-Q1).
 #### Published
