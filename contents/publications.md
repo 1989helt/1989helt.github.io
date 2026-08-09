@@ -1,9 +1,7 @@
 #### Submitted
 [4] Junjie Tao, Zhijie Wang, <strong>Liangtian He*</strong>, Jifei Miao, Jun Liu, Liang-Jian Deng. <span style="color:blue;">Sine-transformed Weighted Nuclear Norm Minimization for Low-rank Matrix Recovery.</span> Submitted. 2026.
 
-[3] Guangze Shi, <strong>Liangtian He*</strong>, Jifei Miao, Jun Liu, Liang-Jian Deng. <span style="color:blue;">A Boundary-aware Quaternion Framework for Color
-Image Deblurring under Unknown Boundaries and Incomplete Observations.</span> <strong style="font-family: 'Comic Sans MS', 'Comic Sans', cursive; font-weight: normal;">
-Journal of Computational and Applied Mathematics</strong>. Submitted. 2026. (SCI 检索，JCR-Q1，计算与应用数学领域国际权威期刊).
+[3] Guangze Shi, <strong>Liangtian He*</strong>, Jifei Miao, Jun Liu, Liang-Jian Deng. <span style="color:blue;">A Boundary-aware Quaternion Framework for Color Image Deblurring under Unknown Boundaries and Incomplete Observations.</span>  Submitted. 2026.
 
 [2] Zongzheng Li, <strong>Liangtian He*</strong>, Jifei Miao, Jun Liu, Liang-Jian Deng. <span style="color:blue;">Stabilized Low-rank Quaternion Matrix Completion with
 Complementary Local and Nonlocal Plug-and-Play Priors for Color Image Inpainting.</span> <strong style="font-family: 'Comic Sans MS', 'Comic Sans', cursive; font-weight: normal;">
