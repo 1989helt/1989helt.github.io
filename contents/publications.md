@@ -6,7 +6,7 @@
 [1] Zongzheng Li, <strong>Liangtian He*</strong>, Jifei Miao, Jun Liu, Liang-Jian Deng. <span style="color:blue;">Stabilized Low-rank Quaternion Matrix Completion with
 Complementary Local and Nonlocal Plug-and-Play Priors for Color Image Inpainting.</span> <strong style="font-family: 'Comic Sans MS', 'Comic Sans', cursive; font-weight: normal;">Applied Mathematical Modelling</strong>. Under review. 2026. (SCI 检索，JCR-Q1，计算与应用数学领域国际权威期刊).
 #### Published
-[24] Chao Wang, Zhe Pan, <strong>Liangtian He</strong>, Jun Liu, Lin Mei, Rongsheng Lin, Hongming Chen, Chuansheng Yang. <span style="color:blue;">Dual-domain Illumination Prior for Low-light Remote Sensing Image Enhancement.</span>  <strong style="font-family: 'Comic Sans MS', 'Comic Sans', cursive; font-weight: normal;">Remote Sensing</strong>.  Accepted.  2026. (SCI 检索，JCR-Q1).
+[24] Chao Wang, Zhe Pan, <strong>Liangtian He</strong>, Jun Liu, Lin Mei, Rongsheng Lin, Hongming Chen, Chuansheng Yang. <span style="color:blue;">Dual-domain Illumination Prior for Low-light Remote Sensing Image Enhancement.</span>  <strong style="font-family: 'Comic Sans MS', 'Comic Sans', cursive; font-weight: normal;">Remote Sensing</strong>.  18(16), 2817, 2026. (SCI 检索，JCR-Q1).
 
 [23] Juan Li, Zhijie Wang, <strong>Liangtian He*</strong>, Jifei Miao, Jun Liu, Liang-Jian Deng. <span style="color:blue;">Constrained Low-rank Quaternion Matrix Completion Fusing Learnable Transforms and Plug-and-Play Denoising Prior for Color Image Inpainting.</span> <strong style="font-family: 'Comic Sans MS', 'Comic Sans', cursive; font-weight: normal;">
 Journal of Computational and Applied Mathematics</strong>.  488(117802),  2026. (SCI 检索，JCR-Q1，计算与应用数学领域国际权威期刊).
