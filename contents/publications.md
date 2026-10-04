@@ -27,7 +27,7 @@ Journal of Computational and Applied Mathematics</strong>.  488(117802),  2026. 
 
 [15] Qinghua Zhang, <strong>Liangtian He*</strong>, Yilun Wang, Liang-Jian Deng, Jun Liu. <span style="color:blue;">Quaternion Weighted Schatten p-norm Minimization for Color Image Restoration with Convergence Guarantee.</span>  <strong style="font-family: 'Comic Sans MS', 'Comic Sans', cursive; font-weight: normal;"> Signal Processing</strong>. 218(109382), 2024. (SCI 检索， JCR-Q2， 中国计算机学会推荐期刊 CCF C 类).
 
-[14] Shaobing Gao, <strong>Liangtian He</strong>, Yongjie Li. <span style="color:blue;">Biologically Inspired Image Invariance Guided Illuminate Estimation Using Shallow and Deep Models.</span>  <strong style="font-family: 'Comic Sans MS', 'Comic Sans', cursive; font-weight: normal;"> Expert Systems with Applications</strong>. 249(123391), 2024. (SCI 检索, JCR-Q1, 中国计算机学会推荐期刊 CCF C 类).
+[14] Shaobing Gao, <strong>Liangtian He</strong>, Yongjie Li. <span style="color:blue;">Biologically Inspired Image Invariance Guided Illuminant Estimation Using Shallow and Deep Models.</span>  <strong style="font-family: 'Comic Sans MS', 'Comic Sans', cursive; font-weight: normal;"> Expert Systems with Applications</strong>. 249(123391), 2024. (SCI 检索, JCR-Q1, 中国计算机学会推荐期刊 CCF C 类).
 
 [13] <strong>Liangtian He</strong>, Shaobing Gao, Liang-Jian Deng, Yilun Wang, Chao Wang. <span style="color:blue;">Denoiser-guided Image Deconvolution with Arbitrary Boundaries and Incomplete Observations.</span>  <strong style="font-family: 'Comic Sans MS', 'Comic Sans', cursive; font-weight: normal;"> Signal Processing</strong>. 214(109226), 2024. (SCI 检索， JCR-Q2，中国计算机学会推荐期刊 CCF C 类).
 
