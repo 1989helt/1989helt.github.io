@@ -3,12 +3,12 @@
 
 [4] Zhijun Zhang, Zongzheng Li, <strong>Liangtian He*</strong>, Jifei Miao, Jun Liu. <span style="color:blue;">Color Video Inpainting via Low-Rank Quaternion Tensor Completion with Scheduled Spatial and Spatiotemporal Plug-and-Play Priors.</span> Submitted. 2026.
 
-[3] Qinghua Zhang, Xuesong Yang, <strong>Liangtian He*</strong>, Liang-Jian Deng, Jun Liu. <span style="color:blue;">Pixel-Intensity-Constrained Blind Deconvolution for Binary and Pattern Images.</span> <strong style="font-family: 'Comic Sans MS', 'Comic Sans', cursive; font-weight: normal;">IEEE Signal Processing Letters</strong>. Submitted. 2026. (SCI 检索，JCR-Q2，中国计算机学会推荐期刊 CCF C 类).
+[3] Guangze Shi, <strong>Liangtian He*</strong>, Jifei Miao, Jun Liu, Liang-Jian Deng. <span style="color:blue;">A Boundary-aware Quaternion Framework for Color Image Deblurring under Unknown Boundaries and Incomplete Observations.</span> <strong style="font-family: 'Comic Sans MS', 'Comic Sans', cursive; font-weight: normal;">Applied Mathematics and Computation</strong>.  Submitted. 2026. (SCI 检索，JCR-Q1，计算与应用数学领域国际权威期刊).
 
-[2] Guangze Shi, <strong>Liangtian He*</strong>, Jifei Miao, Jun Liu, Liang-Jian Deng. <span style="color:blue;">A Boundary-aware Quaternion Framework for Color Image Deblurring under Unknown Boundaries and Incomplete Observations.</span> <strong style="font-family: 'Comic Sans MS', 'Comic Sans', cursive; font-weight: normal;">Applied Mathematics and Computation</strong>.  Submitted. 2026. (SCI 检索，JCR-Q1，计算与应用数学领域国际权威期刊).
-
-[1] Zongzheng Li, <strong>Liangtian He*</strong>, Jifei Miao, Jun Liu, Liang-Jian Deng. <span style="color:blue;">Stabilized Low-rank Quaternion Matrix Completion with
+[2] Zongzheng Li, <strong>Liangtian He*</strong>, Jifei Miao, Jun Liu, Liang-Jian Deng. <span style="color:blue;">Stabilized Low-rank Quaternion Matrix Completion with
 Complementary Local and Nonlocal Plug-and-Play Priors for Color Image Inpainting.</span> <strong style="font-family: 'Comic Sans MS', 'Comic Sans', cursive; font-weight: normal;">Information Sciences</strong>. Submitted. 2026. (SCI 检索，JCR-Q1，中国计算机学会推荐期刊 CCF B 类).
+
+[1] Qinghua Zhang, Xuesong Yang, <strong>Liangtian He*</strong>, Liang-Jian Deng, Jun Liu. <span style="color:blue;">Pixel-Intensity-Constrained Blind Deconvolution for Binary and Pattern Images.</span> <strong style="font-family: 'Comic Sans MS', 'Comic Sans', cursive; font-weight: normal;">IEEE Signal Processing Letters</strong>. Accept with minor revision. 2026. (SCI 检索，JCR-Q2，中国计算机学会推荐期刊 CCF C 类).
 #### Published
 [24] Chao Wang, Zhe Pan, <strong>Liangtian He</strong>, Jun Liu, Lin Mei, Rongsheng Lin, Hongming Chen, Chuansheng Yang. <span style="color:blue;">Dual-domain Illumination Prior for Low-light Remote Sensing Image Enhancement.</span>  <strong style="font-family: 'Comic Sans MS', 'Comic Sans', cursive; font-weight: normal;">Remote Sensing</strong>.  18(16), 2817, 2026. (SCI 检索，JCR-Q1).
 
