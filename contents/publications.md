@@ -1,5 +1,7 @@
 #### Submitted
-[5] Junjie Tao, Zhijie Wang, <strong>Liangtian He*</strong>, Jifei Miao, Jun Liu. <span style="color:blue;">Sine-transformed Weighted Nuclear Norm Minimization for Robust Low-rank Matrix Completion.</span> Submitted. 2026.
+[6] Junjie Tao, Zhijie Wang, <strong>Liangtian He*</strong>, Jifei Miao, Jun Liu. <span style="color:blue;">Sine-transformed Weighted Nuclear Norm Minimization for Robust Low-rank Matrix Completion.</span> Submitted. 2026.
+
+[5] Xinyu Zhang, <strong>Liangtian He*</strong>, Jifei Miao, Liang-Jian Deng, Jun Liu. <span style="color:blue;">Matrix Completion via Reweighted Logarithmic Norm Minimization.</span> Submitted. 2026.
 
 [4] Zhijun Zhang, Zongzheng Li, <strong>Liangtian He*</strong>, Jifei Miao, Jun Liu. <span style="color:blue;">Color Video Inpainting via Low-Rank Quaternion Tensor Completion with Scheduled Spatial and Spatiotemporal Plug-and-Play Denoising Priors.</span> Submitted. 2026.
 
